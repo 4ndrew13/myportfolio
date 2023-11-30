@@ -1,5 +1,4 @@
 import Project1 from "../assets/project1.jpg"
-import Project2 from "../assets/proj2.PNG"
 import Project3 from "../assets/proj3.PNG"
 import Pastprojects from "../assets/pastprojects.jpeg"
 
