@@ -45,9 +45,9 @@ ul {
 .fade {
   opacity: 0;
   -webkit-animation: fade-up 3s;
-  -webkit-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.9s;
   animation: fade-up 3s;
-  animation-delay: 0.5;
+  animation-delay: 0.9;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
