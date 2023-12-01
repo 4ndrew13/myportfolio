@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion';
 
 const animations = {
-    initial: {opacitiy: 0, x: 50},
-    animate: {opacitiy: 1, x: 0},
-    exit: {opacitiy: 0, x:-100},
+    initial: {opacitiy: 0},
+    animate: {opacitiy: 1},
+    exit: {opacitiy: 0},
 }
 
 const AnimatedPage = ({children}) => {
